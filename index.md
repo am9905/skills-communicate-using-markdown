@@ -6,3 +6,6 @@
 ###### Test 6
 
 added different header types 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
